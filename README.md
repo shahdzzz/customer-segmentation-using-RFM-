@@ -69,10 +69,6 @@ Before you begin, make sure you have the following:
 ## Contributing
 
 Contributions to this project are welcome! If you find issues or have suggestions for improvements, please feel free to submit a pull request.
-
-## License
-
-
 ---
 
 Thank you for exploring the **Customer Segmentation using RFM Analysis and Power BI Visualization** project! If you have any questions or feedback, please don't hesitate to contact us.
